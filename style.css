@@ -1,0 +1,33 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border: antiquewhite solid 15px;
+  border-radius: 25px;
+  background-color: gray;
+}
+h1 {
+  color: antiquewhite;
+  font-size: 40px;
+}
+p {
+  color: antiquewhite;
+  font-size: 15px;
+}
+strong {
+  color: aliceblue;
+}
+button {
+  border: antiquewhite solid 10px;
+  border-radius: 15px;
+  width: 100px;
+  height: 50px;
+  background: transparent;
+  color: antiquewhite;
+  transform: translateY(-120px);
+}
+header {
+  background-color: gray;
+}

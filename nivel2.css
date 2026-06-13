@@ -1,0 +1,50 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  
+  border: antiquewhite solid 15px;
+  border-radius: 30px;
+  background-color: darkgrey;
+}
+.caixa1 {
+  border: gray solid 12px;
+  border-radius: 15px;
+}
+.caixa2{
+  border: gray solid 10px;
+  border-radius: 15px;
+}
+.caixa3 {
+  border: gray solid 12px;
+  border-radius: 15px;
+}
+.caixa4 {
+  border: gray solid 10px;
+  border-radius: 15px;
+}
+p {
+  color: antiquewhite;
+  font-size: 20px;
+}
+strong {
+  color: aliceblue;
+}
+h1 {
+  font-family: "Noto Sans KR", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  color: aliceblue;
+  font-size: 50px;
+}
+h2 {
+    font-family: "Noto Sans KR", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  color: aliceblue;
+  font-size: 50px;
+}
